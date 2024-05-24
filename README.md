@@ -17,9 +17,8 @@ Diginet product deals with modules like - Customer Support & Services (CSS), Sal
   
 <b>Contribution as a Team member:</b>
 
-- Coding using ASP.NET 2.0, C#, Java Script, XML and AJAX.
-- Working with SQL Server - Database tables, views, stored procedures, user-defined functions etc.
-- Involved in coding of CSS and Sales modules.
+- Involved in the coding of CSS and Sales modules using ASP.NET 2.0, C#, Java Script, XML and AJAX.
+- Worked with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
 - Developed Custom Reports for Sales and CSS modules.
 - Integrated Custom views for Sales and CSS modules. 
 - Unit Testing and Bug Fixing.
