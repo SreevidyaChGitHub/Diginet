@@ -3,6 +3,7 @@
 <b>Customers:</b> Tech Mahindra, Encover, Gantec Solutions, iPolicy <br/>
 
 <b>Description:</b><br/>
+
 Digiprise is a web enabled ERP solution which is provided as an ASP service that achieves automation of
 the business processes across the various functions of an organization ensuring accurate & one-time 
 capturing of data, fast retrieval of information across all offices located across the globe and tracking the 
@@ -17,7 +18,7 @@ Diginet product deals with modules like - Customer Support & Services (CSS), Sal
 <b>Contribution as a Team member:</b>
 
 - Coding using ASP.NET 2.0, C#, Java Script, XML and AJAX.
-- Working with SQL Server - Creating Database tables, views, stored procedures, user-defined functions etc.
+- Working with SQL Server - Database tables, views, stored procedures, user-defined functions etc.
 - Involved in coding of CSS and Sales modules.
 - Developed Custom Reports for Sales and CSS modules.
 - Integrated Custom views for Sales and CSS modules. 
